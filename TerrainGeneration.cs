@@ -7,7 +7,7 @@ public class TerrainGeneration : MonoBehaviour
 {
     ChunkGeneration chunkGen; //Creates a reference to the ChunkGeneration script
 
-    //Components to use so we can use their 
+    //Components to use so we can use their functions
     Mesh mesh;
     MeshFilter meshFilter;
     MeshRenderer meshRenderer;
